@@ -97,5 +97,7 @@ Saima Furqan
 Healthcare Data Analyst  
 MSc Health Data Science – University of Birmingham, Dubai  
 
-GitHub: https://github.com/yourusername
-LinkedIn: (add your LinkedIn)
+GitHub: https://github.com/drsaimasf
+LinkedIn: www.linkedin.com/in/saima-furqan-a73252b0
+
+
